@@ -1,7 +1,7 @@
 # spynode
 Setting up a node that listens to transactions but doesn’t participate in block building
 
-Problem Statement: Simulate/Impersonate/Mimic Validator node to get block data and then forward it to RPC because RPC gets data slower 
+Problem Statement: Simulate/Impersonate/Mimic Validator node to get block data, and then forward it to RPC because RPCs gets data slower 
 
 Roadmap:
 - Isolate Logic to run Node(standalone) from agave codebase or from here
